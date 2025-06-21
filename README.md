@@ -12,3 +12,13 @@
 
 ![login_page_converted](https://github.com/user-attachments/assets/d7026878-1fc2-4586-862f-0564e3957c16)
 
+### Customer Dashboard
+
+![customerdashboard](https://github.com/user-attachments/assets/72b63fd8-76d4-4722-b1c0-8c331d9df361)
+
+
+
+### Admin Dashboard
+
+![AdminDashboard](https://github.com/user-attachments/assets/e354ce36-6f44-4094-8a95-db5b50c4ec2c)
+
