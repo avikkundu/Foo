@@ -1,0 +1,25 @@
+.menu-body{
+    background-color: #fdf3e6;
+     width: 1480px; 
+     height: 550px;
+     border-radius: 10px;
+     margin-top: 2rem;
+}
+.food-cards{
+  display: flex;
+  gap: 16px;         
+  margin-left: 16px;
+  flex-wrap: wrap;   
+  justify-content: left; 
+}
+
+.heading{
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 30px;
+  margin-bottom: 1rem;
+  
+}

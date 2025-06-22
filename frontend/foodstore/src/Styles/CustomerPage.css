@@ -1,0 +1,35 @@
+
+.landing-body{
+    background-color: #fdf3e6;
+     width: 1480px; 
+     height: 550px;
+     border-radius: 10px;
+     margin-top: 2rem;
+     text-align: center;
+    
+}
+.logout-button{
+    background-color: rgb(74, 74, 123);
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    position: absolute;
+    left:1400px;
+    top:150px;
+    cursor: pointer;
+
+}
+.form{
+    background-color: rgb(216, 199, 239);
+    height:30px;
+    width: 1410px;
+    position: absolute;
+    left:50px;
+    top:200px;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center ;    
+}

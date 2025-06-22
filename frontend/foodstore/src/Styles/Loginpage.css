@@ -1,0 +1,54 @@
+
+.landing-body{
+    background-color: #fdf3e6;
+     width: 1480px; 
+     height: 550px;
+     border-radius: 10px;
+     margin-top: 2rem;
+     text-align: center;
+    
+}
+.chef-logo{
+     height:500px;
+     width:500px;
+     position: absolute;
+     top:150px;
+     left: 1000px;
+}
+.form-body{
+    width:300px;
+    height:300px;
+    position: absolute;
+    left: 620px;
+    top: 250px;
+    background-color:  rgb(175, 244, 246);
+    border: 2px solid;
+    border-radius: 30px;
+}
+.chef{
+    position: absolute;
+    top:180px;
+    left:50px;
+}
+.cust-login{
+   
+    background-color: rgb(12, 111, 176);
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.admin-login{
+
+    background-color: rgb(12, 111, 176);
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 5px;
+    width: 200px;
+    cursor: pointer;
+
+}
