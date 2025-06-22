@@ -14,7 +14,8 @@
 
 ### Customer Dashboard
 
-![customerdashboard](https://github.com/user-attachments/assets/72b63fd8-76d4-4722-b1c0-8c331d9df361)
+![customerdashboard](https://github.com/user-attachments/assets/b3820c63-b97c-4a35-98d4-8300f9f10314)
+
 
 
 
