@@ -1,5 +1,8 @@
 # Foo
 
+### Description
+
+A food delivery website where customers can create profile and make order.Owner can login and update customers about their orders.
 ### Home page
 
 ![converted_image](https://github.com/user-attachments/assets/1015cf4d-bac1-4681-be4a-49a25c6db110)
